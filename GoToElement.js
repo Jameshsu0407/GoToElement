@@ -10,7 +10,7 @@ $("*").each(function () {
         //    上方位置＝目標屬性.位移.上方
         var top = $(target).offset().top;
         // 動畫({捲動上方：上方位置}，時間)
-        $("html,body").animate({scrollTop:top},parseInt(duration));
+        $("html,body").stop().animate({scrollTop:top},parseInt(duration));
         }
     });
 });

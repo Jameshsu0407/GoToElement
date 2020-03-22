@@ -2,7 +2,7 @@
 前往指定元素位置
 
 # 範例
-
+https://jameshsu0407.github.io/GoToElement/
 
 # CDN
 jquery CDN
@@ -11,6 +11,7 @@ jquery CDN
 
 go to element CDN
 
+    <script src="https://jameshsu0407.github.io/GoToElement/GoToElement.js"></script>
 
 # 屬性
 
